@@ -7,7 +7,7 @@ This program checks on the MediaMarkt Website the PS5 Site and go to The Checkou
     export PATH=$PATH:~/PycharmProjects/PS5Now
       
 2. Step:
-    - Go to your Path ```~/PycharmProjects/PS5Now"```
+    - Go to your Path ```~/PS5Now"```
     
     
 3. Step:
