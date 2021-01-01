@@ -5,6 +5,7 @@ This program checks on the MediaMarkt Website the PS5 Site and go to The Checkou
    - Clone this Repo
     - Put this in Command line:
     export PATH=$PATH:~/PycharmProjects/PS5Now
+
       
 2. Step:
     - Go to your Path ```~/PS5Now"```
