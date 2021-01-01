@@ -9,10 +9,8 @@ This program checks on the MediaMarkt Website the PS5 Site and go to The Checkou
 2. Step:
     - Go to your Path ```~/PycharmProjects/PS5Now"```
     
-3. Step:
-    Go to the "ConfigDataMailInput.py" and fill in the Array your E-Mail Account Settings.
     
-4. Step:
+3. Step:
     - Type ```python main.py```
 
 
