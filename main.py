@@ -4,6 +4,8 @@ from time import sleep
 from checkIfOnStock import checkIfOnStock
 from CheckIfBan import checkIfban
 
+
+
 browser = webdriver.Firefox()
 
 browser.get('https://www.mediamarkt.de/de/product/_sony-playstation%C2%AE5-digital-edition-2661939.html')

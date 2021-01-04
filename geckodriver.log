@@ -9,3 +9,14 @@ Gtk-Message: 22:47:58.435: Failed to load module "appmenu-gtk-module"
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1609779835593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XQr56PJ1HDfs"
+Gtk-Message: 18:03:55.609: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:03:56.393: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:03:56.488: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609779837224	Marionette	INFO	Listening on port 45999
+1609779837313	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 18:03:57.358: Failed to load module "appmenu-gtk-module"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
