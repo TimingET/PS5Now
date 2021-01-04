@@ -1,3 +1,5 @@
+## Just for educational Use!!
+
 This program checks on the MediaMarkt Website the PS5 Site and go to The Checkout. After that the program sends an Email to you.
 
 

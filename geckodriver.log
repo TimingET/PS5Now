@@ -1,0 +1,11 @@
+1609537676626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kLBtVWj73W00"
+Gtk-Message: 22:47:56.643: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:47:57.442: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:47:57.541: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609537678279	Marionette	INFO	Listening on port 36091
+1609537678345	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 22:47:58.435: Failed to load module "appmenu-gtk-module"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
